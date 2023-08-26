@@ -8,6 +8,8 @@
 
 /*=============== IMAGE GALLERY ===============*/
 
+
+
 /*=============== SWIPER CATEGORIES ===============*/
 var swiperCategories = new Swiper(".categories-container", {
    spaceBetween: 24,
